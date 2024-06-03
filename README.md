@@ -35,7 +35,7 @@ Hello!, I'm a passionate software developer with a love for creating innovative 
 
 ## Blog & Articles
 
-- 📝 [Article 1]([https://blog.com/article1](https://revistas.ufps.edu.co/index.php/respuestas/article/view/2854)) - Analysis and graphic estimation of the behavior of COVID-19 in Colombia, Santa Marta and Cartagena focused on lethality.
+- 📝 [Article 1]([[https://blog.com/article1](https://revistas.ufps.edu.co/index.php/respuestas/article/view/2854)]) - Analysis and graphic estimation of the behavior of COVID-19 in Colombia, Santa Marta and Cartagena focused on lethality.
 
 ## Contact me
 
