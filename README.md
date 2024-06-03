@@ -1,6 +1,6 @@
 # ¡Welcome!. I'm Maria 👋
 
-![Descripción del GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmU2MGtpN2RydmgxajNwM2kwYnhueGUxM3Ixd2xzeXg5eWpwNGY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q0s0NVKnLk5WGvsLh3/giphy.gif)
+![Bienvenida](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmppdG53cTQwcGQxeWR1d3NmbGVwMTJ5eW4za3JkOXI5Y2ZjdzBuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 
 ## About me
 
