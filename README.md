@@ -16,7 +16,7 @@ Hello!, I'm a passionate software developer with a love for creating innovative 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### Interests
+## Interests
 
 - 🌐 Web Development: HTML, CSS, JavaScript, and modern frameworks.
 - 📊 Data Analysis: Python, Power BI, SQL and NoSQL.
