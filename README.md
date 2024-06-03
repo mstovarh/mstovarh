@@ -1,4 +1,4 @@
-# ¡Welcome!. I'm Maria 👋
+# ¡Welcome!. I'm María 👋
 
 ![Bienvenida](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmppdG53cTQwcGQxeWR1d3NmbGVwMTJ5eW4za3JkOXI5Y2ZjdzBuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif)
 
