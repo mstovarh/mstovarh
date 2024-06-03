@@ -31,7 +31,7 @@ Hello!, I'm a passionate software developer with a love for creating innovative 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mstovarho&show_icons=true&theme=radical)
 
 ## Blog & Articles
 
