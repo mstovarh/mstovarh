@@ -4,7 +4,7 @@
 
 ## About me
 
-Hello! I'm a Data Engineer and Software Developer passionate about transforming data into meaningful insights. I enjoy designing efficient ETL pipelines, integrating data sources, and leveraging analytics tools to deliver scalable solutions. I’m also committed to continuous learning and exploring new technologies to improve data processing and automation workflows..
+Hello! I'm a Data Engineer and Software Developer passionate about transforming data into meaningful insights. I enjoy designing efficient ETL pipelines, integrating data sources, and leveraging analytics tools to deliver scalable solutions. I’m also committed to continuous learning and exploring new technologies to improve data processing and automation workflows.
 
 ## Skills
 
