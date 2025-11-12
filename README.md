@@ -24,11 +24,12 @@ Hello! I'm a Data Engineer and Software Developer passionate about transforming 
 
 ## Interests
 
-⚙️ ETL Development: Designing and optimizing data pipelines for efficient data flow.
-🔗 Integration Development: Building reliable data connections between heterogeneous systems.
-🌐 Data Engineering: Working with modern frameworks and scalable architectures.
-📊 Data Analysis: Using Python, SQL, Power BI, and NoSQL databases for analytics.
-📚 Continuous Learning: Exploring new tools and best practices in data engineering.
+- ⚙️ **ETL Development:** Designing and optimizing data pipelines for efficient data flow.  
+- 🔗 **Integration Development:** Building reliable data connections between heterogeneous systems.  
+- 🌐 **Data Engineering:** Working with modern frameworks and scalable architectures.  
+- 📊 **Data Analysis:** Using Python, SQL, Power BI, and NoSQL databases for analytics.  
+- 📚 **Continuous Learning:** Exploring new tools and best practices in data engineering.  
+
 
 ## GitHub Stats
 
