@@ -4,12 +4,10 @@
 
 ## About me
 
-Hello!, I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. With a strong background in web development and data analysis.
+Hello! I'm a Data Engineer and Software Developer passionate about transforming data into meaningful insights. I enjoy designing efficient ETL pipelines, integrating data sources, and leveraging analytics tools to deliver scalable solutions. I’m also committed to continuous learning and exploring new technologies to improve data processing and automation workflows..
 
 ## Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
@@ -21,13 +19,16 @@ Hello!, I'm a passionate software developer with a love for creating innovative 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 ## Interests
 
-- 🌐 Web Development: HTML, CSS, JavaScript, and modern frameworks.
-- 📊 Data Analysis: Python, Power BI, SQL and NoSQL.
-- 🤖 Machine Learning: Exploring AI and ML algorithms.
-- 📚 Continuous Learning: Always eager to learn and grow.
+⚙️ ETL Development: Designing and optimizing data pipelines for efficient data flow.
+🔗 Integration Development: Building reliable data connections between heterogeneous systems.
+🌐 Data Engineering: Working with modern frameworks and scalable architectures.
+📊 Data Analysis: Using Python, SQL, Power BI, and NoSQL databases for analytics.
+📚 Continuous Learning: Exploring new tools and best practices in data engineering.
 
 ## GitHub Stats
 
